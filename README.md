@@ -164,4 +164,5 @@ output/Informe_Rendimiento_Proveedores.pdf
 ## Autor
 
 Jorge Gamonal Rodríguez
+
 Estudiante de Ciencia e Ingeniería de datos en Uniovi
