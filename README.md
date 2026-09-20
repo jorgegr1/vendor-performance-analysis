@@ -93,7 +93,7 @@ Entre los principales hallazgos obtenidos durante el análisis destacan:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/vendor-performance-analysis.git
+git clone https://github.com/jorgegr1/vendor-performance-analysis.git
 cd vendor-performance-analysis
 ```
 
